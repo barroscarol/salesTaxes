@@ -48,7 +48,7 @@ Implementando por interfaces evitamos o alto acomplamento entre Implementação 
 
 <b>[Entidade ServiceTaxCalculator - Camada de Domínio ]</b>
 
-<br>"Uma taxa básica de compra é aplicada eme 10% em todos os produtos, exceto em livros, comida e insumos médicos."</br>
+<br>"Uma taxa básica de compra é aplicada em 10% em todos os produtos, exceto em livros, comida e insumos médicos."</br>
 <br>"Para produtos importados uma taxa adicional é aplicada em 5%, sem exceções"</br>
 
 {
@@ -109,7 +109,7 @@ Implementando por interfaces evitamos o alto acomplamento entre Implementação 
 * Maven
       
     Instalação :
-    *  Git clone : https://github.com/barroscarol/APIRest.git
+    *  Git clone : https://github.com/barroscarol/salesTaxes.git
     *  Mvn clean install
     *  Maven Update nas dependencias do projeto.
 
