@@ -120,7 +120,8 @@ Acessos:
 
 ## Estrutura da API
 
-A Api foi construida respeitando a arquitetura do Spring de construção e injeção de dependências em camadas.
+A Api foi construida respeitando a arquitetura do Spring, suas injeções foram feitas com o Google Guice, uma outra opção seria utilizar a estrutura de injeção automática do Spring @Autowired.
+
 
  SalesTaxesApp 
 ```
